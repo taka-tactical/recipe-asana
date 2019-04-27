@@ -1,0 +1,13 @@
+{
+  "id": "asana",
+  "name": "Asana",
+  "version": "1.0.0",
+  "description": "Asana",
+  "main": "index.js",
+  "author": "Taka",
+  "license": "MIT",
+  "repository": "https://github.com/taka-tactical/recipe-asana",
+  "config": {
+    "serviceURL": "https://app.asana.com"
+  }
+}
